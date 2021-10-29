@@ -1,0 +1,216 @@
+2021-10-09 09:57:49.421 | INFO     | __main__:<module>:34 - dsdsfsdf
+2021-10-09 09:59:23.830 | INFO     | __main__:<module>:34 - dsdsfsdf
+2021-10-09 10:01:06.740 | INFO     | api.v1.sys_api:add_api:32 - ---->api_info的信息为\path='string' description='string' api_group='string' method='string'
+2021-10-09 10:01:58.587 | INFO     | api.v1.sys_api:add_api:32 - ---->api_info的信息为\path='string' description='string' api_group='string' method='string'
+2021-10-09 10:02:37.823 | INFO     | api.v1.sys_api:add_api:32 - ---->api_info的信息为
+path='string' description='string' api_group='string' method='string'
+2021-10-09 13:28:01.582 | INFO     | api.v1.faker_api:test_data:22 - ---->api_info的信息为
+address
+2021-10-09 13:29:13.403 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+address
+2021-10-09 13:29:55.694 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->name
+2021-10-09 13:29:57.548 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->name
+2021-10-09 13:30:00.756 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->company
+2021-10-09 13:30:04.774 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->text
+2021-10-09 13:30:10.673 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->user_agent
+2021-10-09 13:30:12.139 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->user_agent
+2021-10-09 13:30:12.906 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->user_agent
+2021-10-09 13:30:16.737 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->credit_card_full
+2021-10-09 13:30:25.027 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->free_email
+2021-10-09 13:30:25.897 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->free_email
+2021-10-09 13:30:26.477 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->free_email
+2021-10-09 13:30:29.991 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 13:30:30.842 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 13:30:31.352 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 13:30:31.560 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 13:30:31.722 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 13:30:34.037 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:30:58.558 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:00.339 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:01.258 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:01.930 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:03.578 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:06.254 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:06.815 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:31:09.835 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:39.741 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:40.767 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:41.352 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:41.555 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:41.745 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:41.944 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:31:42.709 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:45:43.934 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:45:45.528 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:45:46.131 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:45:59.264 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:46:00.155 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:46:02.057 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:46:07.677 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:46:08.659 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:46:09.365 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:49:00.381 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:49:02.153 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:49:02.797 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:50:24.106 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:50:24.779 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:50:25.390 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:50:25.929 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:50:26.778 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:54:26.874 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:54:27.687 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:54:28.317 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 13:54:31.343 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:31.921 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:32.128 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:32.291 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:32.463 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:32.653 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:54:32.842 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->organization
+2021-10-09 13:57:28.855 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 13:57:31.901 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 13:57:32.527 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:06:55.757 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->name
+2021-10-09 14:07:00.360 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->name
+2021-10-09 14:07:03.061 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->text
+2021-10-09 14:07:05.812 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->user_agent
+2021-10-09 14:07:08.925 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:11.297 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:11.519 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:12.073 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:12.252 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:12.465 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:12.656 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->social
+2021-10-09 14:07:15.998 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 14:07:17.701 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 14:07:17.937 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->ssn
+2021-10-09 14:07:21.724 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:22.195 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:22.379 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:22.562 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:22.745 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:23.334 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:23.513 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:23.702 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:07:23.867 | INFO     | api.v1.faker_api:random_data:22 - ---->api_info的信息为
+---->phone_number
+2021-10-09 14:38:14.395 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->phone_number
+2021-10-09 14:39:40.155 | INFO     | core.server:request_validation_exception_handler:148 - 请求参数格式错误
+URL:POSThttp://127.0.0.1:8010/test/data?api_info=phone_number
+Headers:Headers({'host': '127.0.0.1:8010', 'connection': 'keep-alive', 'content-length': '0', 'sec-ch-ua': '"Chromium";v="94", "Google Chrome";v="94", ";Not A Brand";v="99"', 'accept': 'application/json', 'sec-ch-ua-mobile': '?0', 'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36', 'sec-ch-ua-platform': '"macOS"', 'origin': 'http://127.0.0.1:8010', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'referer': 'http://127.0.0.1:8010/docs', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'zh-CN,zh;q=0.9'})
+Traceback (most recent call last):
+  File "/Users/zyf/.pyenv/versions/3.8-dev/lib/python3.8/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/zyf/.pyenv/versions/3.8-dev/lib/python3.8/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/zyf/.pyenv/versions/3.8-dev/lib/python3.8/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/zyf/.pyenv/versions/3.8-dev/lib/python3.8/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/zyf/.pyenv/versions/3.8-dev/lib/python3.8/site-packages/fastapi/routing.py", line 199, in app
+    raise RequestValidationError(errors, body=body)
+fastapi.exceptions.RequestValidationError: 1 validation error for Request
+query -> param
+  field required (type=value_error.missing)
+
+2021-10-09 14:40:00.489 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:01.592 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:10.801 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:13.258 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:15.534 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:18.200 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:20.892 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:23.010 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:25.960 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:27.909 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:29.742 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 14:40:30.444 | INFO     | api.v1.faker_api:random_data:22 - ---->/test/data的入参信息为---->address
+2021-10-09 15:02:13.599 | INFO     | api.v1.faker_api:random_data:20 - ->/test/data的入参信息为---->social
+2021-10-09 15:02:15.841 | INFO     | api.v1.faker_api:random_data:20 - ->/test/data的入参信息为---->social
+2021-10-09 15:02:16.720 | INFO     | api.v1.faker_api:random_data:20 - ->/test/data的入参信息为---->social
+2021-10-09 15:02:19.544 | INFO     | api.v1.faker_api:random_data:20 - ->/test/data的入参信息为---->organization
+2021-10-09 15:02:20.228 | INFO     | api.v1.faker_api:random_data:20 - ->/test/data的入参信息为---->organization

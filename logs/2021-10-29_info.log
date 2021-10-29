@@ -1,0 +1,4 @@
+2021-10-29 16:43:56.353 | INFO     | api.v1.faker_api:random_data:25 - ->/test/data的入参信息为---->name
+2021-10-29 16:43:59.614 | INFO     | api.v1.faker_api:random_data:25 - ->/test/data的入参信息为---->text
+2021-10-29 16:44:04.785 | INFO     | api.v1.faker_api:random_data:25 - ->/test/data的入参信息为---->ssn
+2021-10-29 16:44:10.702 | INFO     | api.v1.faker_api:random_data:25 - ->/test/data的入参信息为---->organization
