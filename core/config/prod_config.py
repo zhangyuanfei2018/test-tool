@@ -38,9 +38,9 @@ class Settings(BaseSettings):
     # 配置你的Mysql环境
     MYSQL_USERNAME: str = "root"
     MYSQL_PASSWORD: str = "root12345"
-    MYSQL_HOST: Union[AnyHttpUrl, IPvAnyAddress] = "127.0.0.1"
+    MYSQL_HOST: Union[AnyHttpUrl, IPvAnyAddress] = "101.34.207.54"
     MYSQL_PORT: int = 3306
-    MYSQL_DATABASE: str = 'testMysql'
+    MYSQL_DATABASE: str = 'test'
 
     # Mysql地址
     SQLALCHEMY_DATABASE_URL = f"mysql+pymysql://{MYSQL_USERNAME}:{MYSQL_PASSWORD}@" \
